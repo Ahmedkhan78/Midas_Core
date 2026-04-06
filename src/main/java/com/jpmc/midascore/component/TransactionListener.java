@@ -4,8 +4,6 @@ import com.jpmc.midascore.foundation.Transaction;
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Component;
 
-import java.math.BigDecimal;
-
 @Component
 public class TransactionListener {
 
