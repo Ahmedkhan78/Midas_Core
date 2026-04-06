@@ -1,4 +1,4 @@
-# JPMorganChase Software Engineering Simulation
+# JPMorganChase Software Engineering
 
 **Author:** Ahmed Hasan  
 **Completed:** April 6, 2026  
